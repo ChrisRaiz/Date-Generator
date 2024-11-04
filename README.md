@@ -1,5 +1,5 @@
 # Date-Generator
-Code snippet for an algorithm for generating month, date, and day values
+Code snippet for an algorithm that generates month, date, and day values
 
 Algorithm available for singular and multiple days
 
